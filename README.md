@@ -8,8 +8,11 @@
 ---
 
 <div align="center">
-  
-![visitors](https://visitor-badge.glitch.me/badge?page_id=CorrerZhou.Homepage)
-  
+![visitors](https://visitor-badge.glitch.me/badge?page_id=CorrerZhou.Homepage) 
 </div>
 
+<style>
+hr:nth-of-type(1) {
+  border-width: 3px 0 0 0 !important;
+}
+</style>
