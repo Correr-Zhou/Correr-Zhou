@@ -1,5 +1,6 @@
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=CorrerZhou.Homepage) 
 ![followers](https://img.shields.io/github/followers/Correr-Zhou?label=Follow&style=social)
+<img align="right" width="7%" src="https://s2.loli.net/2022/07/10/aL2kXUMGBApfm7J.png" >
 
 ### Hi there, I'm Donghao (Correr) Zhou 👋
 
