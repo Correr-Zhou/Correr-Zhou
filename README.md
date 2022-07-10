@@ -1,10 +1,12 @@
-![visitors](https://visitor-badge.glitch.me/badge?page_id=CorrerZhou.Homepage) 
-![followers](https://img.shields.io/github/followers/Correr-Zhou?label=Follow&style=social)
+![visitors](https://visitor-badge.glitch.me/badge?page_id=CorrerZhou.Homepage&right_color=green) 
+![followers](https://img.shields.io/github/followers/Correr-Zhou?label=followers&style=social)
+<a href="https://correr-zhou.github.io/"> <img src="https://img.shields.io/badge/-homepage-critical?style=plastic" height="20px"> </a>
+<a href="https://scholar.google.com/citations?user=Td_KJgIAAAAJ"><img src="https://img.shields.io/badge/scholar-4385FE.svg?&style=plastic&logo=google-scholar&logoColor=white" alt="Google Scholar" height="20px"></a>
 <img align="right" width="7%" src="https://s2.loli.net/2022/07/10/aL2kXUMGBApfm7J.png" >
 
 ### Hi there, I'm Donghao (Correr) Zhou 👋
 
-<img align="right" width="50%" src="https://github-readme-stats.vercel.app/api?username=Correr-Zhou&show_icons=true&theme=buefy">
+<a href="https://skyline.github.com/Correr-Zhou/"><img align="right" width="50%" src="https://github-readme-stats.vercel.app/api?username=Correr-Zhou&show_icons=true&theme=buefy"></a>
 
 - 🏛 I’m currently a M.S. student in [University of Chinese Academy of Sciences (UCAS)](https://english.ucas.ac.cn/).
 - 🔬 Doing my research in [Shenzhen Institute of Advanced Technology (SIAT)](https://english.siat.ac.cn/), [Chinese Academy of Sciences (CAS)](https://english.cas.cn/).
