@@ -10,5 +10,5 @@
 
 - 🏛 I’m currently an M.Sc. student at [University of Chinese Academy of Sciences (UCAS)](https://english.ucas.ac.cn/).
 - 🔬 Doing my research in [Shenzhen Institute of Advanced Technology (SIAT)](https://english.siat.ac.cn/), [Chinese Academy of Sciences (CAS)](https://english.cas.cn/).
-- 📚 Dedicating myself to **Machine Learning** & **Computer Vision**, specifically to **Data-Efficient AI (Learning with Imperfect Data)** and its applications in real world.
+- 📚 Dedicating myself to **Machine Learning** & **Computer Vision**, specifically to **Data-Efficient AI** and its applications in real world.
 - 📫 Feel free to contact me: dh.zhou@siat.ac.cn
