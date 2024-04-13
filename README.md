@@ -8,7 +8,7 @@
 
 <a href="https://skyline.github.com/Correr-Zhou/"><img align="right" width="50%" src="https://github-readme-stats.vercel.app/api?username=Correr-Zhou&show_icons=true&theme=buefy"></a>
 
-- 🏛 I’m currently an M.Sc. student at [University of Chinese Academy of Sciences (UCAS)](https://english.ucas.ac.cn/).
+- 🏛 I’m currently a M.Sc. student at [University of Chinese Academy of Sciences (UCAS)](https://english.ucas.ac.cn/).
 - 🔬 Doing my research in [Shenzhen Institute of Advanced Technology (SIAT)](https://english.siat.ac.cn/), [Chinese Academy of Sciences (CAS)](https://english.cas.cn/).
 - 📚 Dedicating myself to **ML** & **CV**.
 - 📫 Feel free to contact me: dh.zhou@siat.ac.cn
